@@ -20,3 +20,4 @@ redis-cli.exe -h 127.0.0.1 -p 6379
 3.前端项目启动  
 在 /serve-web 目录下执行npm install 安装依耐包。  
 安装完毕后 npm run serve 启动前段项目  
+..
